@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534329108786.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9AF340F8",
+    "lastKnownWriteTime" : 1534329104,
+    "last_content_update" : 1534329104,
+    "path" : "~/work/ds/rShinyDemo/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "13,3",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
